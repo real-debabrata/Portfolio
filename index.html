@@ -258,6 +258,15 @@
 
         .cursor-glow { position: fixed; width: 400px; height: 400px; background: radial-gradient(circle, rgba(255,255,255,0.06) 0%, rgba(255,255,255,0) 70%); border-radius: 50%; pointer-events: none; z-index: 9999; transform: translate(-50%, -50%); mix-blend-mode: overlay; }
 
+        .footer-note {
+    text-align: center;
+    padding: 15px;
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    border-top: 1px solid var(--glass-border);
+    background: rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+        }
         @media (max-width: 768px) {
             .main-container { width: 100%; height: 100vh; border-radius: 0; border: none; }
             h1 { font-size: 3rem; }
@@ -382,6 +391,15 @@
                 </div>
             </section>
         </div>
+        <!-- ... existing content area ... -->
+</div> <!-- End of content-area -->
+
+<!-- INSERT FOOTER HERE -->
+<footer class="footer-note">
+    &copy; 2026 Designer Deb. All rights reserved.
+</footer>
+
+</div> <!-- End of main-container -->
     </div>
 
     <script>

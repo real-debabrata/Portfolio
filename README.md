@@ -31,11 +31,13 @@
 ### 🛠️ Tech Stack & Stickers
 <div align="center">
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,c,css,gmail,github,instagram,javascript,linkedin,mongodb,python,photoshop,twitter&theme=dark&perline=15" alt="My Skills" /></a>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=cpp,c,css,gmail,github,instagram,javascript,linkedin,mongodb,python,photoshop,twitter&theme=dark&perline=15" alt="My Skills" width="350"/>
+</a>
 </div>
 
 <!-- ANIMATED STICKER -->
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150" alt="coding cat"/>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" alt="coding cat" align="center"/>
 
 
 <br/>
